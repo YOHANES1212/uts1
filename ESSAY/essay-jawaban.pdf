@@ -27,4 +27,10 @@ saya memakai js = let data = ["data1", "data2", "data3", "data4", "data5"], nah 
     mhs.[3]
     maka outputnya = "khenedy";
 
-    
+6.stack dengan js:
+    let angka = [1, 2, 3, 4, 5]
+    angka.unshift(0)
+    console.log(angka) // angka = [0, 1, 2, 3, 4, 5] menambahkan angka 5 di depan
+    angka.shift() // angka di index 0 kehapus jadi outpunya = angka = [1, 2, 3, 4, 5]
+    angka.pop() // maka angka 5 di array akan kehapus 
+    angka.push(5) // menambahkan angka 5 di dalam array ini namanya queque 
