@@ -1,0 +1,30 @@
+1. Jelaskan menurut anda apa itu struktur data!
+
+2. Jelaskan menurut anda kegunaan struktur data!
+
+3. Sebutkan jenis-jenis struktur data yang anda ketahui dan jelaskan!
+
+4. Jelaskan menurut anda apa itu Array dan kegunaannya untuk apa!
+
+5. Berikan contoh array yang anda ketahui!
+
+6. Buatlah dengan bahasa pemrograman yang anda kuasai contoh dari struktur data menurut pandangan anda!
+
+JAWABAN:
+1.struktur data adalah untuk mengatur, menyimpan, megorgansisir data dalam komputer, supaya bisa diakses dan manipulasi dengan efisien.
+
+2.kegunaan dari struktur data itu penting banget buat penyusunan dan ngelola data dengan efisien, karena mempermudah proses pencarian, pengurutan, dan manipulasinya.
+
+3.jenis-jenis nya ada 2 yaitu linear dan non-linear
+    linear : Array, linked list, stack, queque
+    non-linear : tree, graph, hash table
+
+4.menurut saya array itu kegunaannya buat menyimpan data, contoh semisal data tidak pake array maka akan banyak sc nya, nah array ini berguna buat menyimpan data-data yang banyak jadi kita bisa panggil di dalam array nya, contoh:
+saya memakai js = let data = ["data1", "data2", "data3", "data4", "data5"], nah kira kira begini kegunaannya array
+
+5.okey saya akan menggunakan bahasa javascript
+    let mhs = ["budi", "jono", "joko", "khenedy", "bagas"]
+    mhs.[3]
+    maka outputnya = "khenedy";
+
+    
